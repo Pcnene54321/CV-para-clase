@@ -1,0 +1,32 @@
+h1{ color: rgb(54, 49, 77);
+    font-family: arial;
+    font-size: 100px;
+    text-decoration-line: underline;
+    text-decoration-style:dashed; 
+    text-wrap: nowrap;
+    background: #ccc;
+    padding: 1rem;
+    max-width: 1100px;
+    -webkit-text-stroke: 2px white;
+ }
+ h2{color: rgb(54, 49, 77);
+    font-family: arial;
+    
+ }
+ h3{color: rgb(54, 49, 77);
+    font-family: arial;
+    text-decoration-line: underline;
+}
+ 
+ li{
+    max-width:100px;
+    min-width:170px;
+    background: #ccc;
+    padding: 1rem;
+    overflow: hidden;
+    resize: horizontal;
+  }
+  p1{
+    color: blue;
+    font-family: 'times new roman';
+  }
