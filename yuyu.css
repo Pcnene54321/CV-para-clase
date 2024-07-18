@@ -1,0 +1,41 @@
+h1{ color: rgb(0, 0, 0);
+    font-family: "Danfo", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-variation-settings:"ELSH" 0;
+    font-size: 100px;
+    text-decoration-line: underline;
+    text-decoration-style:dashed; 
+    text-wrap: nowrap;
+    background: #ccc;
+    padding: 1px;
+    max-width: 1250px;
+    background: linear-gradient(to right, rgba(56,83,237,1) 25%,rgba(241,218,54,1) 81%);}
+
+  h2{color: rgb(0, 0, 0);
+    font-family: "Danfo", serif;
+}
+ h3{color: rgb(0, 0, 0);
+    font-family: "Danfo", serif;
+    text-decoration-line: underline;
+}
+ 
+ li{
+    font-family: "Playwrite HR Lijeva", cursive;
+    font-optical-sizing: auto;
+    font-weight: 150px;
+    font-style: normal;
+    max-width: 100px;
+    min-width: 450px;
+    background: #7c85b4;
+    padding: 2rem;
+    overflow: hidden;
+    resize: horizontal;
+  }
+  p1{
+    font-family: "Playwrite HR Lijeva", cursive;
+    font-optical-sizing: auto;
+    font-weight: 150px;
+    font-style: normal;
+  }
