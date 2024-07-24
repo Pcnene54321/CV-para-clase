@@ -1,41 +1,87 @@
-h1{ color: rgb(0, 0, 0);
-    font-family: "Danfo", serif;
-    font-optical-sizing: auto;
-    font-weight: 100;
-    font-style: normal;
-    font-variation-settings:"ELSH" 0;
-    font-size: 100px;
-    text-decoration-line: underline;
-    text-decoration-style:dashed; 
-    text-wrap: nowrap;
-    background: #ccc;
-    padding: 1px;
-    max-width: 1250px;
-    background: linear-gradient(to right, rgba(56,83,237,1) 25%,rgba(241,218,54,1) 81%);}
+h1{ 
+  color: rgb(0, 0, 0);
+  font-family: "Danfo", serif;
+  font-style: normal;
+  font-size: 48px;
+  text-decoration-line: underline;
+  text-decoration-style:dashed; 
+  text-wrap: nowrap;
+  background: #ccc;
+  padding: 1px;
+  max-width: 700px;
+  background: linear-gradient(to right, rgba(56,83,237,1) 25%,rgba(241,218,54,1) 81%); 
+}
 
-  h2{color: rgb(0, 0, 0);
-    font-family: "Danfo", serif;
+.contenedor{
+  width: 1500px;
+  height: 790px;
+  margin-bottom: auto;
+  background-color:rgba(241, 241, 107, 0.596);
+  box-sizing: border-box;
 }
+
+.cajita{
+  width: 600px;
+  height: 800px;
+  float: left;
+}
+
+.caja{
+  width: 600px;
+  height: 250px;
+  margin-top: 250px;
+  margin-left: 100px;
+  float: left;
+}
+
+.ordenado{
+  width: 1500px;
+  height: 750px;
+  margin-top: auto;
+  background-color:rgba(241, 241, 107, 0.596);
+  box-sizing: border-box;
+  border: absolute rgba(241, 241, 107, 0.596);
+}
+
+.experiencia{
+  width: 500px;
+  height: 300px;
+  float: left;
+}
+
+.secundario{
+  width: 350px;
+  height: 500px;
+  float: left
+}
+    
+h2{color: rgb(0, 0, 0);
+  font-family: "Danfo", serif;
+  font-size: 30px;
+  text-decoration-style: dashed;
+  text-decoration-line: underline;
+  background: linear-gradient(to right, rgba(56,83,237,1) 25%,rgba(241,218,54,1) 81%);
+  max-width: max-content;  
+}
+
+p{font-family: "Playwrite HR Lijeva", cursive;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
  h3{color: rgb(0, 0, 0);
+    font-size: 30px;
+    max-width: max-content;
     font-family: "Danfo", serif;
+    text-decoration-style: dashed;
     text-decoration-line: underline;
+    background: linear-gradient(to right, rgba(56,83,237,1) 25%,rgba(241,218,54,1) 81%);
 }
- 
- li{
-    font-family: "Playwrite HR Lijeva", cursive;
-    font-optical-sizing: auto;
-    font-weight: 150px;
-    font-style: normal;
-    max-width: 100px;
-    min-width: 450px;
-    background: #7c85b4;
-    padding: 2rem;
-    overflow: hidden;
-    resize: horizontal;
-  }
-  p1{
-    font-family: "Playwrite HR Lijeva", cursive;
-    font-optical-sizing: auto;
-    font-weight: 150px;
-    font-style: normal;
-  }
+p1{
+  font-family: "Playwrite HR Lijeva", cursive;
+  font-size: 18px;
+}
